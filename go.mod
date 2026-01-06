@@ -18,8 +18,8 @@ require (
 	github.com/fluxcd/kustomize-controller/api v1.7.3
 	github.com/fluxcd/notification-controller/api v1.7.5
 	github.com/fluxcd/pkg/apis/event v0.21.0
-	github.com/fluxcd/pkg/apis/meta v1.23.0
-	github.com/fluxcd/pkg/auth v0.33.0
+	github.com/fluxcd/pkg/apis/meta v1.24.0
+	github.com/fluxcd/pkg/auth v0.34.0
 	github.com/fluxcd/pkg/chartutil v1.17.0
 	github.com/fluxcd/pkg/envsubst v1.5.0
 	github.com/fluxcd/pkg/git v0.38.0
